@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ákos Tóth
 
-#### Part-time student, full-time developer and UI/UX designer.
+#### Part-time student, full-time developer and UI/UX designer. Computer Science graduate.
 
 ## 💫 About Me:
 - 🔭 I’m currently working on Polytextor — an AI based documenting tool.
