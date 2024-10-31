@@ -3,8 +3,8 @@
 #### Part-time student, full-time developer and UI/UX designer. Computer Science graduate.
 
 ## 💫 About Me:
-- 🔭 I’m currently working on Polytextor — an AI based documenting tool.
-- 🌱 I’m currently learning React.
+- 🔭 I’m currently working on Donezo — an Agile TO-DO application.
+- 🌱 I’m currently learning AWS and TypeScript.
 - ⚡ Let's collaborate!
   
 This many people were interested in my work here:
